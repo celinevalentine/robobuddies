@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import ErrorBoundry from '../Components/ErrorBoundry';
 
 import Cardlist from '../Components/Cardlist';
 import SearchBox from '../Components/SearchBox';
@@ -22,9 +23,7 @@ class App extends Component {
       .then(users => this.setState({ robots: users}));   
   }
   onSearchChange = (e) => {
-    this.setState({searchfield: e.target.value})
-    console.log(e.target.value);
-   
+    this.setState({searchfield: e.target.value}) 
   }
 
   render() {
@@ -39,7 +38,9 @@ class App extends Component {
           <h1 className='f1'>RobotBuddies</h1>
           <SearchBox searchChange={this.onSearchChange} />
           <Scroll>
-            <Cardlist robots={filteredRobots} />
+            <ErrorBoundry>
+              <Cardlist robots={filteredRobots} />
+            </ErrorBoundry>
           </Scroll>  
         </div>     
       );
