@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'Sagan Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Sagan Italic'), url('sagani.woff') format('woff');
+  }
+h1 {
+  font-family: 'Sagan Italic';
+  font-weight: 200;
+  color: #0ccac4;
+}
+
+
