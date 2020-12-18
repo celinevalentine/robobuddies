@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robobuddies/static/css/main.d4c72da0.chunk.css",
-    "main.js": "/robobuddies/static/js/main.da189e11.chunk.js",
-    "main.js.map": "/robobuddies/static/js/main.da189e11.chunk.js.map",
-    "runtime-main.js": "/robobuddies/static/js/runtime-main.5002e464.js",
-    "runtime-main.js.map": "/robobuddies/static/js/runtime-main.5002e464.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robobuddies/static/css/2.31461e4f.chunk.css",
-    "static/js/2.a2296c37.chunk.js": "/robobuddies/static/js/2.a2296c37.chunk.js",
-    "static/js/2.a2296c37.chunk.js.map": "/robobuddies/static/js/2.a2296c37.chunk.js.map",
-    "static/js/3.5878c401.chunk.js": "/robobuddies/static/js/3.5878c401.chunk.js",
-    "static/js/3.5878c401.chunk.js.map": "/robobuddies/static/js/3.5878c401.chunk.js.map",
-    "index.html": "/robobuddies/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robobuddies/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.d4c72da0.chunk.css.map": "/robobuddies/static/css/main.d4c72da0.chunk.css.map",
-    "static/js/2.a2296c37.chunk.js.LICENSE.txt": "/robobuddies/static/js/2.a2296c37.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robobuddies/static/media/sagani.ece0ee6c.woff"
+    "main.css": "/robotbuddies/static/css/main.a99e06c6.chunk.css",
+    "main.js": "/robotbuddies/static/js/main.da189e11.chunk.js",
+    "main.js.map": "/robotbuddies/static/js/main.da189e11.chunk.js.map",
+    "runtime-main.js": "/robotbuddies/static/js/runtime-main.fee2ce1d.js",
+    "runtime-main.js.map": "/robotbuddies/static/js/runtime-main.fee2ce1d.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robotbuddies/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a2296c37.chunk.js": "/robotbuddies/static/js/2.a2296c37.chunk.js",
+    "static/js/2.a2296c37.chunk.js.map": "/robotbuddies/static/js/2.a2296c37.chunk.js.map",
+    "static/js/3.5878c401.chunk.js": "/robotbuddies/static/js/3.5878c401.chunk.js",
+    "static/js/3.5878c401.chunk.js.map": "/robotbuddies/static/js/3.5878c401.chunk.js.map",
+    "index.html": "/robotbuddies/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robotbuddies/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a99e06c6.chunk.css.map": "/robotbuddies/static/css/main.a99e06c6.chunk.css.map",
+    "static/js/2.a2296c37.chunk.js.LICENSE.txt": "/robotbuddies/static/js/2.a2296c37.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotbuddies/static/media/sagani.ece0ee6c.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.5002e464.js",
+    "static/js/runtime-main.fee2ce1d.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.a2296c37.chunk.js",
-    "static/css/main.d4c72da0.chunk.css",
+    "static/css/main.a99e06c6.chunk.css",
     "static/js/main.da189e11.chunk.js"
   ]
 }
